@@ -1,0 +1,4 @@
+admin;admin;staff;
+admin;admin;manager;
+user1;pass1;staff;
+user2;pass2;staff;

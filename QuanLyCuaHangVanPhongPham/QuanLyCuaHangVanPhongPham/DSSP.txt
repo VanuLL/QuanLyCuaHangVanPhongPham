@@ -1,0 +1,4 @@
+001;Thước kẻ Roske;Roske;Màu cam;5000.0;4465;
+005;Thước đo độ;Guici;Màu cam;12000.0;1999;
+002;Thước kẻ;Thiên Long;Màu xanh;8000.0;1141;
+003;Bút Bi;Lus;Màu cam;9000.0;123;
